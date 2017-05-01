@@ -1,0 +1,18 @@
+@font-face {
+        font-family: Minecraft;
+        src: url(fonts/Minecraft.ttf)
+        }    
+        h1 {  
+        font-family: cursive;
+        }
+        p {    
+        font-family: cursive;
+        }
+        li {    
+        font-family: sans-serif;
+        color: #40829c;
+        }
+        a {
+    font-family: minecraft;
+    color: brown;
+} 
